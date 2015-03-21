@@ -1,0 +1,36 @@
+2015-03-17 22:12:49.502 INFO  Thread-4        DiscoveryLauncher   --> run()
+2015-03-17 22:12:49.808 FATAL Thread-4        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-17 22:33:56.592 INFO  Thread-4        DiscoveryLauncher   --> run()
+2015-03-17 22:33:56.760 FATAL Thread-4        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-17 23:39:14.371 INFO  Thread-4        DiscoveryLauncher   --> run()
+2015-03-17 23:39:14.590 FATAL Thread-4        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-18 00:29:52.131 INFO  Thread-9        DiscoveryLauncher   --> run()
+2015-03-18 00:29:52.355 FATAL Thread-9        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-18 00:30:08.683 INFO  AWT-EventQueue-0 NetworkServiceImpl   --> publish(DocumentDetails('Untitled Document 1'))
+2015-03-18 00:30:08.686 INFO  AWT-EventQueue-0 PublishDocumentPrepareFilter   --> process()
+2015-03-18 00:30:08.687 INFO  AWT-EventQueue-0 PublishDocumentPrepareFilter   <-- process()
+2015-03-18 00:30:08.687 INFO  AWT-EventQueue-0 NetworkServiceImpl   <-- publish()
+2015-03-18 00:30:21.671 INFO  AWT-EventQueue-0 PublishedDocument   --> shutdown()
+2015-03-18 00:30:21.679 INFO  AWT-EventQueue-0 ConcealDocumentPrepareFilter   --> process()
+2015-03-18 00:30:21.710 INFO  AWT-EventQueue-0 ConcealDocumentPrepareFilter   conceal to 0 users.
+2015-03-18 00:30:21.712 INFO  AWT-EventQueue-0 ConcealDocumentPrepareFilter   <-- process()
+2015-03-18 00:30:21.712 INFO  AWT-EventQueue-0 PublishedDocument   <-- shutdown()
+2015-03-18 00:35:58.723 INFO  Thread-8        DiscoveryLauncher   --> run()
+2015-03-18 00:35:58.856 FATAL Thread-8        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-18 00:48:19.634 INFO  Thread-9        DiscoveryLauncher   --> run()
+2015-03-18 00:48:19.802 FATAL Thread-9        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-18 00:52:32.695 INFO  Thread-9        DiscoveryLauncher   --> run()
+2015-03-18 00:52:33.037 FATAL Thread-9        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-18 00:53:09.846 INFO  Thread-9        DiscoveryLauncher   --> run()
+2015-03-18 00:53:09.985 FATAL Thread-9        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-18 08:26:49.163 INFO  Thread-9        DiscoveryLauncher   --> run()
+2015-03-18 08:26:49.484 FATAL Thread-9        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-18 08:29:23.945 INFO  Thread-8        DiscoveryLauncher   --> run()
+2015-03-18 08:29:24.391 FATAL Thread-8        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-18 08:30:49.374 INFO  Thread-9        DiscoveryLauncher   --> run()
+2015-03-18 08:30:49.484 WARN  Thread-8        BEEPSessionListener   server stopped [java.net.BindException: Address already in use]
+2015-03-18 08:30:49.485 ERROR Thread-8        BEEPSessionListener   BindException, stop server.
+2015-03-18 08:30:49.527 INFO  Thread-8        BEEPSessionListener   terminate [java.net.BindException: Address already in use]
+2015-03-18 08:30:50.905 FATAL Thread-9        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
+2015-03-21 08:36:11.720 INFO  Thread-8        DiscoveryLauncher   --> run()
+2015-03-21 08:36:12.011 FATAL Thread-8        DNSSDCall         caught error, DNSSD not installed [java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path]
